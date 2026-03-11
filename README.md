@@ -80,7 +80,7 @@ My goal is simple:
 
 - 💼 **LinkedIn:** [linkedin.com/in/narvik](https://www.linkedin.com/in/narvik)
 - 💻 **GitHub:** [github.com/ideavision](https://github.com/ideavision)
-- 💼 **Medium:** [medium.com/@narvika]
+- 💼 **Medium:** [Medium.com/@narvika] (http://medium.com/@narvika)
 
 ---
 
